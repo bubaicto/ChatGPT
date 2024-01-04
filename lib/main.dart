@@ -269,7 +269,7 @@ class _ChatScreenState extends State<ChatScreen> {
     final Dio dio = Dio();
     try {
       final response = await dio.post(
-        'http://43.134.250.63:2887/streamChatWithUser',
+        '您的服务器地址/streamChatWithUser',
         data: text,
         queryParameters: {'user': 'User$id'},
         options: Options(

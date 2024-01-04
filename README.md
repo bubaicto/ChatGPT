@@ -1,16 +1,7 @@
-# chat_gpt_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+这是一个flutter开发ChatGPT应用的项目
+应用开发结果如下（实现了流式响应的效果）
+桌面端
+![image](https://github.com/bubaicto/ChatGPT/assets/117982607/e0ae143b-1962-454e-b0d1-a1956b957d47)
+APP端
+![cf2f989011d8e8b588ff7515d35d4cc](https://github.com/bubaicto/ChatGPT/assets/117982607/e5e2cfe8-86df-437c-9b94-600fa7769157)
+实现成品在ChatGPT文件夹内，分别有桌面端的exe文件和APP端的apk，要用的话自取就好了
